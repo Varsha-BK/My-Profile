@@ -1,0 +1,106 @@
+/* Header Strat */
+
+body {
+    background-color: white;
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header {
+    padding: 15px;
+}
+
+header h3 {
+    float: left;
+    margin-left: 16%;
+    margin-top: -35px;
+}
+
+header li {
+    display: inline;
+    padding-left: 40px;
+}
+
+header li a {
+    color: black;
+    text-decoration: none;
+    padding: 13px;
+
+}
+
+header li a:hover {
+    color: royalblue;
+}
+/* Header End */
+
+h2 {
+    border: 1px solid black;
+    padding: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: gray;
+    
+}
+
+#about {
+    font-size: 45px;
+    text-decoration: underline;
+    color: brown;
+}
+
+img {
+    float: left;
+    margin: 45px;
+    padding: 50px;
+}
+#me {
+    margin-top: 100px;
+    margin-left: 40%;
+    text-align: justify;
+}
+
+#skills {
+    text-align: center;
+    font-size: 45px;
+    text-decoration: underline;
+}
+
+.skill {
+    margin-left: 10%;
+    text-align: left; 
+}
+
+
+/* Form Start */
+form {
+    text-align: center;
+    float: left;
+    margin-left: 40%;
+}
+form button {
+    background-color: gray;
+}
+/* Form End*/
+
+ol {
+    float: left;
+    margin-left: 12%;
+    
+    padding: 30px;
+
+}
+ol li {
+    display: inline;
+    padding: 60px;
+}
+/* Footer Start*/
+footer {
+    background-color: rgb(245, 241, 234);
+    color: brown;
+    margin-top: 30%;
+    text-align: center;
+    font-size: small;
+}
+/* Footer End*/
